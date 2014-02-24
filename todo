@@ -4,3 +4,5 @@ Need to figure out how to parse the following from a post
 -date
 -contents
 -quoted posts
+
+Plans are in the works to construct a network graph showing who is quoting whom.
